@@ -1,1 +1,1 @@
-github "xmartlabs/Eureka" ~> 3.0
+github "MoneyBrilliant/Eureka" "disable-auto-header-footer-size-estimation"
